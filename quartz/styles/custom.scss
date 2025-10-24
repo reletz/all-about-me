@@ -1,11 +1,319 @@
 @use "./base.scss";
 @use "./themes";
+@use "./themes/green-nature.scss";
 
-/* --- Dashboard Layout (from dashboard.css) --- */
+/* === GREEN NATURE THEME FOR PERSONAL COMMUNICATION BLOG === */
+
+/* Global Styles */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", "Segoe UI", -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: var(--bg-primary);
+  color: var(--text-dark);
+  line-height: 1.6;
+}
+
+/* Header & Navigation */
+header {
+  background: linear-gradient(135deg, var(--green-primary) 0%, var(--green-secondary) 100%);
+  border-bottom: 3px solid var(--green-accent);
+  box-shadow: 0 4px 12px var(--shadow-green);
+}
+
+nav {
+  background: var(--bg-secondary);
+  border-radius: 12px;
+  padding: 1rem;
+  margin: 1rem 0;
+  box-shadow: 0 2px 8px var(--shadow-subtle);
+}
+
+nav a {
+  color: var(--green-primary);
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+nav a:hover {
+  background-color: var(--green-lighter);
+  color: var(--green-accent);
+  transform: translateY(-2px);
+}
+
+/* Main Content Layout */
+.page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  background: var(--bg-primary);
+}
+
+/* Blog Post Headers */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--green-accent);
+  font-weight: 700;
+  margin: 1.5rem 0 1rem 0;
+  line-height: 1.3;
+}
+
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  background: linear-gradient(135deg, var(--green-primary), var(--green-secondary));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+h1::after {
+  content: '';
+  position: absolute;
+  bottom: -0.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100px;
+  height: 4px;
+  background: linear-gradient(90deg, var(--green-primary), var(--green-light));
+  border-radius: 2px;
+}
+
+/* Content Cards & Sections */
+.content-section {
+  background: var(--bg-card);
+  border: 2px solid var(--border-light);
+  border-radius: 16px;
+  padding: 2rem;
+  margin: 2rem 0;
+  box-shadow: 0 8px 24px var(--shadow-subtle);
+  transition: all 0.3s ease;
+}
+
+.content-section:hover {
+  box-shadow: 0 12px 32px var(--shadow-green);
+  transform: translateY(-4px);
+  border-color: var(--green-light);
+}
+
+/* Project Cards for UTS sections */
+.project-card {
+  background: linear-gradient(145deg, var(--bg-primary), var(--bg-secondary));
+  border: 2px solid var(--green-lighter);
+  border-radius: 20px;
+  padding: 2rem;
+  margin: 1.5rem 0;
+  box-shadow: 
+    0 10px 30px var(--shadow-subtle),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.project-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--green-primary), var(--green-secondary), var(--green-light));
+}
+
+.project-card:hover {
+  transform: translateY(-6px) scale(1.02);
+  box-shadow: 
+    0 20px 40px var(--shadow-green),
+    inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  border-color: var(--green-secondary);
+}
+
+.project-title {
+  color: var(--green-primary);
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.project-title::before {
+  content: '🌿';
+  font-size: 1.2rem;
+}
+
+/* Links & Buttons */
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border-bottom: 2px solid transparent;
+}
+
+a:hover {
+  color: var(--link-hover);
+  border-bottom-color: var(--green-light);
+}
+
+.btn {
+  background: linear-gradient(135deg, var(--button-primary), var(--green-secondary));
+  color: var(--text-on-green);
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px var(--shadow-green);
+}
+
+.btn:hover {
+  background: linear-gradient(135deg, var(--button-hover), var(--green-primary));
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px var(--shadow-green);
+}
+
+/* Blockquotes & Callouts */
+blockquote {
+  border-left: 4px solid var(--green-secondary);
+  background: var(--bg-card);
+  margin: 1.5rem 0;
+  padding: 1rem 1.5rem;
+  border-radius: 0 12px 12px 0;
+  font-style: italic;
+  color: var(--text-medium);
+  box-shadow: 0 2px 8px var(--shadow-subtle);
+}
+
+/* Code Blocks */
+pre, code {
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-medium);
+  border-radius: 8px;
+}
+
+pre {
+  padding: 1rem;
+  overflow-x: auto;
+  box-shadow: inset 0 2px 4px var(--shadow-subtle);
+}
+
+code {
+  padding: 0.2rem 0.4rem;
+  font-size: 0.9em;
+}
+
+/* Lists */
+ul, ol {
+  padding-left: 1.5rem;
+}
+
+li {
+  margin: 0.5rem 0;
+  color: var(--text-medium);
+}
+
+li::marker {
+  color: var(--green-primary);
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  background: var(--bg-primary);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px var(--shadow-subtle);
+}
+
+th {
+  background: linear-gradient(135deg, var(--green-primary), var(--green-secondary));
+  color: var(--text-on-green);
+  padding: 1rem;
+  font-weight: 600;
+}
+
+td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--border-light);
+}
+
+tr:nth-child(even) {
+  background: var(--bg-card);
+}
+
+/* Footer */
+footer {
+  background: linear-gradient(135deg, var(--green-accent) 0%, var(--green-primary) 100%);
+  color: var(--text-on-green);
+  text-align: center;
+  padding: 2rem;
+  margin-top: 3rem;
+  border-radius: 16px 16px 0 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .page {
+    padding: 1rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  .project-card {
+    padding: 1.5rem;
+  }
+  
+  .content-section {
+    padding: 1.5rem;
+  }
+}
+
+/* Special UTS Section Styling */
+.uts-section {
+  background: linear-gradient(145deg, 
+    rgba(171, 230, 193, 0.1) 0%, 
+    rgba(123, 200, 153, 0.05) 100%);
+  border: 2px solid var(--green-lighter);
+  border-radius: 20px;
+  padding: 2rem;
+  margin: 2rem 0;
+  position: relative;
+}
+
+.uts-section::before {
+  content: attr(data-uts);
+  position: absolute;
+  top: -12px;
+  left: 2rem;
+  background: linear-gradient(135deg, var(--green-primary), var(--green-secondary));
+  color: var(--text-on-green);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+/* Dashboard-specific styles preserved and enhanced */
 .dashboard {
   padding: 30px !important;
   max-width: 100%;
   margin: 0 auto;
+  background: var(--bg-primary);
 }
 
 .dashboard .markdown-preview-section {
@@ -21,11 +329,11 @@
   text-align: center;
   margin-bottom: 2rem;
   padding-bottom: 1rem;
-  background: linear-gradient(90deg, var(--color-accent), var(--text-accent-hover));
+  background: linear-gradient(90deg, var(--green-primary), var(--green-secondary));
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
-  border-bottom: 2px solid var(--background-modifier-border);
+  border-bottom: 2px solid var(--border-medium);
 }
 
 .dashboard h1 {

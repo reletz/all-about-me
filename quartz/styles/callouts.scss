@@ -1,4 +1,199 @@
-@use "./variables.scss" as *;
+@use "./base.scss";
+
+/**
+ * Green Nature Theme Callouts
+ * Enhanced callouts for personal communication blog content
+ */
+
+.callout {
+  border: 2px solid var(--border-light);
+  border-radius: 16px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  background: var(--bg-card);
+  box-shadow: 0 4px 12px var(--shadow-subtle);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.callout::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: linear-gradient(180deg, var(--green-primary), var(--green-light));
+}
+
+.callout:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px var(--shadow-green);
+  border-color: var(--green-light);
+}
+
+.callout-title {
+  font-weight: 600;
+  color: var(--green-primary);
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.callout-content {
+  color: var(--text-medium);
+  line-height: 1.6;
+}
+
+/* UTS-specific callouts */
+.callout[data-callout="uts1"], 
+.callout[data-callout="all-about-me"] {
+  border-color: var(--green-secondary);
+  background: linear-gradient(145deg, rgba(45, 125, 74, 0.05), rgba(123, 200, 153, 0.03));
+}
+
+.callout[data-callout="uts1"]::before,
+.callout[data-callout="all-about-me"]::before {
+  background: linear-gradient(180deg, var(--green-secondary), var(--green-light));
+}
+
+.callout[data-callout="uts1"] .callout-title::before,
+.callout[data-callout="all-about-me"] .callout-title::before {
+  content: '👋';
+}
+
+.callout[data-callout="uts2"],
+.callout[data-callout="song-for-you"] {
+  border-color: var(--green-light);
+  background: linear-gradient(145deg, rgba(123, 200, 153, 0.05), rgba(168, 230, 193, 0.03));
+}
+
+.callout[data-callout="uts2"]::before,
+.callout[data-callout="song-for-you"]::before {
+  background: linear-gradient(180deg, var(--green-light), var(--green-lighter));
+}
+
+.callout[data-callout="uts2"] .callout-title::before,
+.callout[data-callout="song-for-you"] .callout-title::before {
+  content: '🎵';
+}
+
+.callout[data-callout="uts3"],
+.callout[data-callout="my-stories"] {
+  border-color: var(--earth-brown);
+  background: linear-gradient(145deg, rgba(139, 111, 61, 0.05), rgba(139, 111, 61, 0.02));
+}
+
+.callout[data-callout="uts3"]::before,
+.callout[data-callout="my-stories"]::before {
+  background: linear-gradient(180deg, var(--earth-brown), var(--green-secondary));
+}
+
+.callout[data-callout="uts3"] .callout-title::before,
+.callout[data-callout="my-stories"] .callout-title::before {
+  content: '📖';
+}
+
+.callout[data-callout="uts4"],
+.callout[data-callout="my-shape"] {
+  border-color: var(--green-accent);
+  background: linear-gradient(145deg, rgba(30, 90, 50, 0.05), rgba(45, 125, 74, 0.02));
+}
+
+.callout[data-callout="uts4"]::before,
+.callout[data-callout="my-shape"]::before {
+  background: linear-gradient(180deg, var(--green-accent), var(--green-primary));
+}
+
+.callout[data-callout="uts4"] .callout-title::before,
+.callout[data-callout="my-shape"] .callout-title::before {
+  content: '🔍';
+}
+
+.callout[data-callout="uts5"],
+.callout[data-callout="personal-review"] {
+  border-color: var(--green-primary);
+  background: linear-gradient(145deg, rgba(45, 125, 74, 0.08), rgba(74, 157, 106, 0.04));
+}
+
+.callout[data-callout="uts5"]::before,
+.callout[data-callout="personal-review"]::before {
+  background: linear-gradient(180deg, var(--green-primary), var(--green-secondary));
+}
+
+.callout[data-callout="uts5"] .callout-title::before,
+.callout[data-callout="personal-review"] .callout-title::before {
+  content: '📝';
+}
+
+/* Standard callout types with green theme */
+.callout[data-callout="note"] {
+  border-color: var(--green-light);
+  background: var(--bg-card);
+}
+
+.callout[data-callout="note"]::before {
+  background: var(--green-light);
+}
+
+.callout[data-callout="note"] .callout-title::before {
+  content: '📄';
+}
+
+.callout[data-callout="tip"] {
+  border-color: var(--green-secondary);
+  background: rgba(74, 157, 106, 0.05);
+}
+
+.callout[data-callout="tip"]::before {
+  background: var(--green-secondary);
+}
+
+.callout[data-callout="tip"] .callout-title::before {
+  content: '💡';
+}
+
+.callout[data-callout="important"] {
+  border-color: var(--green-primary);
+  background: rgba(45, 125, 74, 0.05);
+}
+
+.callout[data-callout="important"]::before {
+  background: var(--green-primary);
+}
+
+.callout[data-callout="important"] .callout-title::before {
+  content: '⚠️';
+}
+
+.callout[data-callout="quote"] {
+  border-color: var(--earth-brown);
+  background: rgba(139, 111, 61, 0.03);
+  font-style: italic;
+}
+
+.callout[data-callout="quote"]::before {
+  background: var(--earth-brown);
+}
+
+.callout[data-callout="quote"] .callout-title::before {
+  content: '💬';
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .callout {
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 12px;
+  }
+  
+  .callout-title {
+    font-size: 0.95rem;
+  }
+}
 @use "sass:color";
 
 .callout {

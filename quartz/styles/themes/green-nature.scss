@@ -1,0 +1,71 @@
+/**
+ * Green Nature Theme for Personal Communication Blog
+ * A fresh, natural color palette inspired by forest and nature elements
+ */
+
+:root {
+  /* Primary Green Palette */
+  --green-primary: #2d7d4a;         /* Deep forest green */
+  --green-secondary: #4a9d6a;       /* Medium forest green */
+  --green-light: #7bc899;           /* Light sage green */
+  --green-lighter: #a8e6c1;         /* Very light mint */
+  --green-accent: #1e5a32;          /* Dark emerald green */
+  
+  /* Complementary Earth Tones */
+  --earth-brown: #8b6f3d;           /* Warm brown for contrast */
+  --earth-cream: #f5f2e8;           /* Creamy white background */
+  --earth-beige: #e8e0d0;           /* Light beige for subtle backgrounds */
+  
+  /* Text Colors */
+  --text-dark: #1a2e1f;             /* Dark green-tinted text */
+  --text-medium: #2d4a35;           /* Medium green-tinted text */
+  --text-light: #5a7a62;            /* Light green-tinted text */
+  --text-on-green: #ffffff;         /* White text on green backgrounds */
+  
+  /* Background Colors */
+  --bg-primary: #ffffff;            /* Pure white main background */
+  --bg-secondary: var(--earth-cream); /* Cream secondary background */
+  --bg-tertiary: var(--green-lighter); /* Light green accent background */
+  --bg-card: rgba(171, 230, 193, 0.1); /* Subtle green card background */
+  
+  /* Border & Shadow Colors */
+  --border-light: var(--green-lighter);
+  --border-medium: var(--green-light);
+  --border-dark: var(--green-secondary);
+  --shadow-green: rgba(45, 125, 74, 0.15);
+  --shadow-subtle: rgba(45, 125, 74, 0.08);
+  
+  /* Interactive Colors */
+  --link-color: var(--green-primary);
+  --link-hover: var(--green-accent);
+  --button-primary: var(--green-primary);
+  --button-hover: var(--green-accent);
+  --button-secondary: var(--green-light);
+  
+  /* Status & Accent Colors */
+  --success: #27ae60;
+  --warning: #f39c12;
+  --error: #e74c3c;
+  --info: var(--green-secondary);
+}
+
+/* Dark theme variant (optional for future use) */
+[data-theme="dark"] {
+  --green-primary: #4a9d6a;
+  --green-secondary: #7bc899;
+  --green-light: #a8e6c1;
+  --green-accent: #2d7d4a;
+  
+  --text-dark: #e8f5e8;
+  --text-medium: #d0e8d4;
+  --text-light: #b8dbbf;
+  
+  --bg-primary: #0d1f13;
+  --bg-secondary: #1a2e1f;
+  --bg-tertiary: #253a2b;
+  --bg-card: rgba(74, 157, 106, 0.1);
+  
+  --border-light: #253a2b;
+  --border-medium: #334d3a;
+  --border-dark: #4a9d6a;
+}

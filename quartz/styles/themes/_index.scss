@@ -5,6 +5,8 @@
 @use "sass:string";
 /* Quartz imports */
 @use "../variables.scss" as *;
+/* Green Nature Theme Import */
+@use "./green-nature.scss";
 /* quartz themes */
 
 :root[saved-theme="dark"] {
