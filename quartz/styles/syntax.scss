@@ -1,118 +1,17 @@
-/**
- * Green Nature Theme Syntax Highlighting
- * Code block styling that complements the green theme
- */
-
-/* Code blocks */
-pre {
-  background: linear-gradient(145deg, var(--earth-cream), var(--bg-secondary));
-  border: 2px solid var(--border-light);
-  border-radius: 12px;
-  padding: 1.5rem;
-  margin: 1.5rem 0;
-  overflow-x: auto;
-  box-shadow: 
-    inset 0 2px 4px var(--shadow-subtle),
-    0 4px 12px var(--shadow-subtle);
-  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
-  font-size: 0.9rem;
-  line-height: 1.5;
-  position: relative;
-}
-
-pre::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 3px;
-  background: linear-gradient(90deg, var(--green-primary), var(--green-light));
-  border-radius: 12px 12px 0 0;
-}
-
-/* Inline code */
-code:not(pre code) {
-  background: var(--bg-tertiary);
-  color: var(--green-accent);
-  padding: 0.25rem 0.5rem;
-  border-radius: 6px;
-  font-size: 0.85em;
-  font-weight: 500;
-  border: 1px solid var(--border-light);
-  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
-}
-
-/* Shiki syntax highlighting with green theme adaptation */
 code[data-theme*=" "] {
-  color: var(--text-dark);
-  background-color: transparent;
+  color: var(--shiki-light);
+  background-color: var(--shiki-light-bg);
 }
 
 code[data-theme*=" "] span {
-  color: var(--text-dark);
+  color: var(--shiki-light);
 }
 
 [saved-theme="dark"] code[data-theme*=" "] {
-  color: var(--text-light);
-  background-color: transparent;
+  color: var(--shiki-dark);
+  background-color: var(--shiki-dark-bg);
 }
 
 [saved-theme="dark"] code[data-theme*=" "] span {
-  color: var(--text-light);
-}
-
-/* Enhanced syntax highlighting colors */
-.hljs {
-  color: var(--text-dark);
-  background: transparent;
-}
-
-.hljs-comment,
-.hljs-quote {
-  color: var(--text-light);
-  font-style: italic;
-}
-
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-type {
-  color: var(--green-accent);
-  font-weight: 600;
-}
-
-.hljs-string,
-.hljs-attr {
-  color: var(--earth-brown);
-}
-
-.hljs-number,
-.hljs-literal {
-  color: var(--green-secondary);
-  font-weight: 500;
-}
-
-.hljs-variable,
-.hljs-name {
-  color: var(--green-primary);
-}
-
-.hljs-function,
-.hljs-title {
-  color: var(--green-accent);
-  font-weight: 600;
-}
-
-/* Mobile responsiveness */
-@media (max-width: 768px) {
-  pre {
-    padding: 1rem;
-    margin: 1rem 0;
-    font-size: 0.8rem;
-  }
-  
-  code:not(pre code) {
-    font-size: 0.8em;
-    padding: 0.2rem 0.4rem;
-  }
+  color: var(--shiki-dark);
 }
