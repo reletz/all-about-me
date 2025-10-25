@@ -13,8 +13,9 @@ description: "Portfolio Komunikasi Interpersonal"
 > 
 > Meski begitu, diriku kian resah
 > 
-> Haruskah kuikut berpura-pura bahagia?
-> 
+> Mestikah kuikut berpura-pura bahagia?
+
+![[hq720(3).jpg]]
 
 Kata yang sebatang kara nihil artinya. Namun, kata yang dibersamai oleh wujud nan hidup memberi makna lebih dalam. Sebagai contoh,
 > Makan
@@ -26,9 +27,9 @@ mungkin tidak memberi arti apa-apa.
 Lain halnya,
 > Aku makan
 
-memberi definisi terkini bahwa sedang terjadi kegiatan makan oleh diriku.
+memberi **definisi yang hidup** bahwa sedang terjadi kegiatan makan oleh diriku. 
 
-Itulah mengapa memahami diri menjadi penting. **Kata-kata kosong** seperti "nama saya..." atau "saya adalah..." hanyalah **rangkaian huruf tanpa jiwa**. Namun, tatkala **kata-kata tersebut berbalut cerita, pengalaman, dan esensi diri yang sebenarnya**, maka lahirlah definisi **diri** yang sesungguhnya, **pribadi unik yang senantiasa melukis jalannya, hingga akhir hayat.**
+Sama halnya dengan kata, **memahami diri menjadi penting**. **Kata-kata kosong** seperti "nama saya..." atau "saya adalah..." hanyalah **rangkaian huruf tanpa jiwa**. Namun, tatkala **kata-kata tersebut berbalut cerita, pengalaman, dan esensi diri yang sebenarnya**, maka lahirlah definisi **diri** yang sesungguhnya, **pribadi unik yang senantiasa melukis jalannya, hingga akhir hayat.**
 
 Mari kita mulai perjalanan ini bersama, dari kata yang sebatang kara menuju makna yang seutuhnya. Mungkin pada akhirnya, aku tidak mencari kebahagiaan, melainkan aku hanya mencari cara untuk bermain dengan kehidupan.
 
