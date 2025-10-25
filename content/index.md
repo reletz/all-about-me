@@ -5,6 +5,12 @@ description: "Portfolio Komunikasi Interpersonal"
 
 # All About Me
 
+> [!cornell] Intro
+> Malam ini, bulan sabit bersinar begitu indah
+> Menerangi dunia dengan bahagianya
+> Meski begitu, diriku kian resah
+> Haruskah ikut berpura-pura bahagia?
+
 Kata yang sebatang kara nihil artinya. Namun, kata yang dibersamai oleh wujud nan hidup memberi makna lebih dalam.
 
 Sebagai contoh,
@@ -19,7 +25,7 @@ Lain halnya,
 
 memberi definisi terkini bahwa sedang terjadi kegiatan makan oleh diriku.
 
-Itulah mengapa memahami diri menjadi penting. Kata-kata kosong seperti "nama saya..." atau "saya adalah..." hanyalah rangkaian huruf tanpa jiwa. Namun, tatkala kata-kata tersebut berbalut cerita, pengalaman, dan esensi diri yang sebenarnya, maka lahirlah definisi **diri** yang sesungguhnya, pribadi unik yang senantiasa melukis jalannya, hingga akhir hayat.
+Itulah mengapa memahami diri menjadi penting. **Kata-kata kosong** seperti "nama saya..." atau "saya adalah..." hanyalah **rangkaian huruf tanpa jiwa**. Namun, tatkala **kata-kata tersebut berbalut cerita, pengalaman, dan esensi diri yang sebenarnya**, maka lahirlah definisi **diri** yang sesungguhnya, **pribadi unik yang senantiasa melukis jalannya, hingga akhir hayat.**
 
 Mari kita mulai perjalanan ini bersama, dari kata yang sebatang kara menuju makna yang seutuhnya.
 

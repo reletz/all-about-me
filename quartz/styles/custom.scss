@@ -1,6 +1,48 @@
 @use "./base.scss";
 @use "./themes";
 
+/* --- Text Justification --- */
+p, li, blockquote {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Exceptions: Keep certain elements left-aligned */
+h1, h2, h3, h4, h5, h6 {
+  text-align: left;
+}
+
+.callout-title, nav, .breadcrumbs {
+  text-align: left;
+}
+
+/* Explorer/Navigation elements - keep left aligned */
+.explorer, .explorer-content, .folder-outer, .folder-title, 
+.file-list, .folder-button, .file-list li, .explorer ul, .explorer li {
+  text-align: left !important;
+}
+
+/* Table of Contents and other navigation */
+.toc, .backlinks, .graph, .recent-notes {
+  text-align: left !important;
+}
+
+/* Main content area justification */
+article, .page-content, .content {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+}
+
+/* Better justification for paragraphs */
+article p, .page-content p, .content p {
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.7;
+}
+
 /* --- Dashboard Layout (from dashboard.css) --- */
 .dashboard {
   padding: 30px !important;
