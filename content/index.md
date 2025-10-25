@@ -1,9 +1,9 @@
 ---
-title: "All About Me - Komunikasi Interpersonal"
+title: "All About Me - Menyambutmu"
 description: "Portfolio Komunikasi Interpersonal"
 ---
 
-# All About Me
+# Narasi
 
 > [!quote] 
 > 
@@ -13,7 +13,7 @@ description: "Portfolio Komunikasi Interpersonal"
 > 
 > Meski begitu, diriku kian resah
 > 
-> Mestikah kuikut berpura-pura bahagia?
+> Mestikah ku berpura-pura bahagia?
 
 ![[hq720(3).jpg]]
 

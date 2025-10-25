@@ -27,10 +27,18 @@ const defaultOptions: Options = {
   folderClickBehavior: "link",
   useSavedState: true,
   mapFn: (node) => {
+    // Show "Home" for index page instead of "Index"
+    if (node.slugSegment === "index") {
+      node.displayName = "🏠 Home"
+    }
     return node
   },
   sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabeticall
+    // Home page always comes first
+    if (a.slugSegment === "index") return -1
+    if (b.slugSegment === "index") return 1
+    
+    // Sort order: folders first, then files. Sort folders and files alphabetically
     if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
       // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
       // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
@@ -46,7 +54,17 @@ const defaultOptions: Options = {
       return -1
     }
   },
-  filterFn: (node) => node.slugSegment !== "tags",
+  filterFn: (node) => {
+    // Debug log to see what nodes we're getting
+    console.log("Explorer node:", node.slugSegment, node.displayName, node.isFolder)
+    
+    // Explicitly include index page and exclude tags folder
+    if (node.slugSegment === "index" || node.slugSegment === "" || 
+        node.displayName === "index" || node.displayName === "Index") {
+      return true
+    }
+    return node.slugSegment !== "tags"
+  },
   order: ["filter", "map", "sort"],
 }
 
@@ -117,6 +135,9 @@ export default ((userOpts?: Partial<Options>) => {
           </svg>
         </button>
         <div class="explorer-content" aria-expanded={false}>
+          <div class="home-entry">
+            <a href="/" title="Go to Home Page">🏠 Home</a>
+          </div>
           <OverflowList class="explorer-ul" />
         </div>
         <template id="template-file">

@@ -27,6 +27,33 @@ h1, h2, h3, h4, h5, h6 {
   text-align: left !important;
 }
 
+/* Manual Home entry in Explorer */
+.home-entry {
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0.2rem 0.5rem !important;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 0.5rem !important;
+  background: transparent;
+  line-height: 1.2;
+}
+
+.home-entry a {
+  color: var(--green-primary) !important;
+  text-decoration: none !important;
+  font-weight: 500 !important;
+  font-size: 0.9rem !important;
+  padding: 0.1rem 0 !important;
+  display: block !important;
+  transition: color 0.3s ease !important;
+  line-height: 1.2;
+}
+
+.home-entry a:hover {
+  color: var(--green-secondary) !important;
+  text-decoration: none !important;
+}
+
 /* Main content area justification */
 article, .page-content, .content {
   text-align: justify;
