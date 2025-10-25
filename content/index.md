@@ -8,9 +8,13 @@ description: "Portfolio Komunikasi Interpersonal"
 > [!quote] 
 > 
 > Malam ini, bulan sabit bersinar begitu indah 
+> 
 > Menerangi dunia dengan bahagianya
+> 
 > Meski begitu, diriku kian resah
+> 
 > Haruskah kuikut berpura-pura bahagia?
+> 
 
 Kata yang sebatang kara nihil artinya. Namun, kata yang dibersamai oleh wujud nan hidup memberi makna lebih dalam. Sebagai contoh,
 > Makan

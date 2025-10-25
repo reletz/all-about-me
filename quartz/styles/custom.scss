@@ -43,6 +43,20 @@ article p, .page-content p, .content p {
   line-height: 1.7;
 }
 
+/* Quote callout - tighter line spacing */
+.callout[data-callout="quote"] {
+  line-height: 1.4 !important;
+}
+
+.callout[data-callout="quote"] .callout-content {
+  line-height: 1.4 !important;
+}
+
+.callout[data-callout="quote"] p {
+  line-height: 1.4 !important;
+  margin-bottom: 0.8rem;
+}
+
 /* --- Dashboard Layout (from dashboard.css) --- */
 .dashboard {
   padding: 30px !important;
