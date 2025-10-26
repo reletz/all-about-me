@@ -1,5 +1,5 @@
 ---
-title: "UTS-2: Songs for You"
+title: "2. UTS-2: Songs for You"
 description: "Pesan berbentuk puisi, lagu, dan video clip untuk relasi intim dengan sentuhan personal yang autentik"
 date: 2025-10-25
 tags: ["uts", "songs", "poetry", "intimate", "personal-message"]

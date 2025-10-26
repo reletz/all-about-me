@@ -1,5 +1,5 @@
 ---
-title: "UTS-4: My Shape"
+title: ". UTS-4: My Shape"
 description: "Laporan analisis diri berdasarkan asesmen VIA, Piagam Diri, dan Identitas Naratif"
 date: 2025-10-25
 tags: ["uts", "assessment", "self-analysis", "via", "identity", "personal-shape"]
