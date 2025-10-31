@@ -55,8 +55,11 @@ Saat aku perlu rehat dari "melukis jalan", kamu akan menemukanku sedang:
 # Kelana
 
 Selama aku berkelana, beberapa kali aku singgah, memaknai hidup lebih jauh.
-1. 
-2. 
+
+||||
+|---|---|---|
+|![[S__24363285_0.jpg]]|![[2365384.jpg]]|![[2387045_0.jpg]]|
+|![[2387044_0.jpg]]|![[1761640370369.jpg]]|![[2387050.jpg]]|
 
 Aku percaya bahwa semua pengalaman ini adalah bagian dari "lukisan" yang lebih besar.
 

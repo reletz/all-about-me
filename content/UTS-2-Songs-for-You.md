@@ -1,254 +1,109 @@
 ---
 title: "2. UTS-2: Songs for You"
-description: "Pesan berbentuk puisi, lagu, dan video clip untuk relasi intim dengan sentuhan personal yang autentik"
 date: 2025-10-25
-tags: ["uts", "songs", "poetry", "intimate", "personal-message"]
+tags:
+  - uts
+  - songs
+  - poetry
+  - personal-message
 ---
 
-# 🎵 UTS-2: Songs for You
+# Kumohon
 
-> **Rubrik Penilaian:** Song For You  
-> **Tujuan:** Menciptakan pesan berbentuk puisi, lagu, dan/atau video clip untuk relasi intim dengan otentisitas dan signature pribadi
+Belakangan ini, tak jarang air menerkam bentala. Kadang, aku heran dibuatnya. Memangnya, ini sudah waktunya?
 
----
+Atau mungkin, ia sedang bercerita atas kesedihannya?
 
-## 💌 Untuk Siapa Lagu Ini?
+Mungkin juga, ia mengajak segala insan untuk bersedih sejenak.
 
-### Dedikasi Spesial
+Apapun itu, tak apa untuk kita untuk bersedih sejenak. Manusia yang memiliki hati ialah mereka yang mau belajar menerima kesedihan, bukan berusaha mengejar kebahagiaan selalu. 
 
-> [!uts2] **Dedicated To**
-> **Untuk:** [Nama atau inisial orang spesial]  
-> **Relasi:** [Sahabat/Partner/Keluarga/dll]  
-> **Alasan:** [Mengapa mereka layak mendapat lagu khusus ini]
+Lagipula, bagaimanapun rasa sakit dan sedih yang kau alami, mereka juga yang akan menyelamatkanmu, _kan_?
 
-[Tulis paragraf pembuka yang menjelaskan hubungan emosional Anda dengan orang ini dan mengapa mereka menginspirasi karya ini.]
+Untuk sejenak, mari meluangkan waktu bagi pikiran kita untuk terdiam dan beristirahat. Mari bersama-sama mencari tahu bagaimana kita sebagai perasa menampakkan emosinya.
 
----
+Kumohon, dengarkan lagu ini.
 
-## 🎼 Original Song/Poem
+# Air
 
-### [Judul Karya]
+![[UTS02.mp3]]
 
-> [!quote] **Genre & Style**
-> **Genre:** [Folk/Pop/Acoustic/Spoken Word/dll]  
-> **Mood:** [Romantic/Nostalgic/Uplifting/Contemplative/dll]  
-> **Tempo:** [Slow/Medium/Upbeat]
+## Verse 1
 
-#### Verse 1
-```
-[Tulis bait pertama di sini]
-[Gunakan imagery dan metafora yang personal]
-[Buat lirik yang mencerminkan perasaan Anda]
-[Dan kenangan bersama orang tersebut]
-```
+> Harapan dan hujan tumpah dari halaman yang tertutup
+> 
+> Hujan yang deras, ditemani harapan nan hampa
+> 
+> "Tapi tak apa, aku yakin aku tak mengapa,"
+> 
+> pikirku, menatap rembulan sabit yang temani gelisah
 
-#### Chorus
-```
-[Chorus yang mudah diingat]
-[Inti pesan untuk orang tersebut]
-[Ungkapan perasaan yang terdalam]
-[Hook yang memorable]
-```
+## Chorus
 
-#### Verse 2
-```
-[Bait kedua yang melanjutkan cerita]
-[Atau memberikan perspektif berbeda]
-[Tentang hubungan atau perasaan Anda]
-[Dengan detail yang lebih spesifik]
-```
+> Jadi kumohon, jangan khawatirkan aku
+> 
+> Biar air ini jatuh 'tuk sejenak
+> 
+> "Bahagia itu tujuan", yakinkah?
+> 
+> Biar sakit ini yang selamatkanku
 
-#### Chorus
-```
-[Ulangi chorus atau variasi]
-[Dengan penekanan yang berbeda]
-[Atau tambahan harmoni]
-[Yang memperkuat pesan]
-```
+## Verse 2
 
-#### Bridge (Optional)
-```
-[Bagian yang berbeda secara musikal]
-[Moment reflektif atau klimaks emosional]
-[Transisi yang mengarah ke penutup]
-```
+> Kau tahu, pikiranku kadang terlalu dalam
+> 
+> Menganalisis retak yang mungkin bahkan tiada
+> 
+> Imajinasiku merasakan hal yang tak terucap
+> 
+> Atau 'kah ku terlalu jauh terdiam?
 
-#### Outro/Final Chorus
-```
-[Penutup yang powerful]
-[Pesan akhir yang bermakna]
-[Leaving them with lasting impression]
-```
+### Chorus
 
----
+> Jadi kumohon, jangan khawatirkan aku
+> 
+> Biar air ini jatuh 'tuk sejenak
+> 
+> Setelah ini reda, aku 'kan 'percaya' lagi
+> 
+> Biar sakit ini yang 'selamatkanku'
 
-## 🎨 Creative Elements
+## Bridge
 
-### Inspirasi & Proses Kreatif
+> Kepada hidup yang tak terpilih
+> 
+> Aku tak bisa terus berkabung kepadanya
+> 
+> Aku terus berusaha untuk hidup
+> 
+> Sementara meminta maaf pada mereka yang tak terlihat
 
-**Inspirasi utama:**
-- [Momen spesifik yang menginspirasi lagu ini]
-- [Perasaan atau emosi yang ingin disampaikan]
-- [Pengalaman bersama yang memorable]
+ 
+> Tempat untuk hidup bahkan tak dapat ditemukan  
+> 
+> Arti untuk terlahir juga tak kumengerti  
+> 
+> Setidaknya, setidaknya..
 
-**Proses penciptaan:**
-1. **Konsep Awal:** [Bagaimana ide ini muncul]
-2. **Pengembangan Lirik:** [Proses menulis dan revisi]
-3. **Melodi/Rhythm:** [Jika ada, jelaskan konsep musikal]
-4. **Finalisasi:** [Sentuhan akhir yang membuat karya ini personal]
+## Outro/Final Chorus
 
-### Symbolism & Metaphors
+> Jadi kumohon, tetaplah di sini
+> 
+> Temani air ini 'tuk sejenak
+> 
+> Kau tak perlu berkata apa-apa
+> 
+> Cukup kau percaya padaku
+> 
+> Hingga sakit ini selamatkanku
 
-**Simbol yang digunakan:**
-- **[Symbol 1]:** [Makna dan alasan penggunaan]
-- **[Symbol 2]:** [Koneksi dengan hubungan kalian]
-- **[Symbol 3]:** [Pesan tersembunyi yang ingin disampaikan]
-
----
-
-## 🎥 Visual Concept (Optional)
-
-### Video Clip Ideas
-
-> [!tip] **Visual Storytelling**
-> **Konsep Video:**
-> - **Setting:** [Lokasi yang bermakna]
-> - **Visual Theme:** [Aesthetic atau mood visual]
-> - **Key Scenes:** [Adegan-adegan penting]
-> - **Symbolism:** [Elemen visual yang mendukung lirik]
-
-**Storyboard Konsep:**
-1. **Opening:** [Scene pembuka]
-2. **Development:** [Perkembangan cerita visual]
-3. **Climax:** [Puncak emosional]
-4. **Closing:** [Ending yang memorable]
-
----
-
-## 📝 Alternative Versions
-
-### Spoken Word Version
-
-[Tulis versi spoken word dari karya Anda, dengan fokus pada delivery dan rhythm yang berbeda]
 
 ```
-[Mulai dengan tone yang intimate]
-[Build up dengan intensitas yang tepat]
-[Gunakan pause dan emphasis untuk efek]
-[Tutup dengan pesan yang powerful]
+Credits:
+1. Sayuri - birthday song (Terutama bagian bridge)
+2. KANA-BOON - namida
+3. AI (Suno dan Gemini)
+4. Me :)
 ```
-
-### Short Poem Version
-
-**[Judul Puisi Pendek]**
-
-```
-[Versi singkat dan padat]
-[Yang mudah diingat]
-[Namun tetap bermakna]
-[Dan personal]
-```
-
----
-
-## 💫 Personal Signature
-
-### What Makes This Uniquely Mine
-
-**Signature elements:**
-- **Gaya bahasa:** [Cara unik Anda menggunakan kata-kata]
-- **Tema personal:** [Pengalaman atau perspektif yang hanya Anda miliki]
-- **Emotional touch:** [Sentuhan emosional yang khas dari Anda]
-- **Cultural reference:** [Referensi budaya atau pengalaman bersama]
-
-### Authenticity Check
-
-> [!important] **Authenticity Markers**
-> ✅ **Original experiences:** [Berdasar pengalaman nyata]  
-> ✅ **Personal voice:** [Menggunakan gaya bahasa sendiri]  
-> ✅ **Genuine emotion:** [Perasaan yang benar-benar dirasakan]  
-> ✅ **Unique perspective:** [Sudut pandang yang personal]
-
----
-
-## 🎯 Target Impact
-
-### Pesan yang Ingin Disampaikan
-
-**Primary message:**
-[Inti pesan utama yang ingin sampai kepada orang tersebut]
-
-**Emotional goal:**
-- [Perasaan yang ingin ditimbulkan]
-- [Memori yang ingin diingat kembali]
-- [Hubungan yang ingin diperkuat]
-
-### Expected Response
-
-**Yang saya harapkan setelah mereka mendengar/membaca ini:**
-- [Reaksi emosional yang diharapkan]
-- [Pemahaman baru tentang hubungan kalian]
-- [Apresiasi terhadap usaha dan kreativitas]
-
----
-
-## 🔄 AI-Assisted vs Personal Touch
-
-### Penggunaan AI (Jika Ada)
-
-> [!note] **AI Assistance Transparency**
-> **Tools yang digunakan:** [Sebutkan jika menggunakan AI]  
-> **Untuk apa:** [Brainstorming/Grammar check/dll]  
-> **Personal contribution:** [Bagian mana yang 100% dari Anda]
-
-**Balance antara efisiensi dan otentisitas:**
-- **AI membantu:** [Aspek teknis atau brainstorming]
-- **Saya yang menentukan:** [Emosi, pengalaman, dan pesan personal]
-- **Result:** [Karya yang tetap autentik meski menggunakan AI]
-
----
-
-## 🎤 Performance Notes
-
-### How to Deliver
-
-**Jika dibawakan langsung:**
-- **Tempo:** [Cepat/sedang/lambat]
-- **Tone:** [Lembut/passionate/playful]
-- **Key moments:** [Bagian yang perlu penekanan khusus]
-- **Interaction:** [Cara melibatkan pendengar]
-
-**Tips untuk pembacaan:**
-- [Saran tentang intonasi]
-- [Bagian yang perlu dijeda]
-- [Emphasis pada kata-kata kunci]
-
----
-
-## 💝 Dedication & Closing
-
-### Personal Message
-
-[Tulis pesan personal langsung kepada orang yang dituju. Jelaskan mengapa mereka layak mendapat karya ini dan apa harapan Anda setelah mereka menerima pesan ini.]
-
-### Signature
-
-```
-With love and authenticity,
-[Nama/Signature Anda]
-
-"[Quote personal atau pesan singkat yang memorable]"
-```
-
----
-
-> **🎵 Tips untuk Songs/Poetry:**
-> - Gunakan pengalaman dan perasaan yang benar-benar Anda alami
-> - Buat rhythm dan flow yang enak didengar/dibaca
-> - Sertakan detail personal yang hanya kalian berdua yang tahu
-> - Jangan takut vulnerable - authenticity lebih penting dari kesempurnaan
-> - Test dengan membacakan keras-keras untuk check flow
-
----
 
 *Dibuat dengan 💚 sebagai bagian dari UTS Komunikasi Interpersonal*
