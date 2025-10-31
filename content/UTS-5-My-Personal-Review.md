@@ -1,38 +1,54 @@
 ---
-title: "5. UTS-5: My Personal Review"
-description: "Telaah dan evaluasi komprehensif terhadap pesan personal UTS-1 hingga UTS-4 dengan self assessment dan peer assessment"
-date: 2025-10-25
+title: "5. UTS-5: My Personal Review" 
+description: "Telaah dan evaluasi komprehensif terhadap pesan personal UTS-1 hingga UTS-4 dengan self assessment dan peer assessment" 
+date: 2025-10-25 
 tags: ["uts", "review", "self-assessment", "peer-assessment", "reflection", "evaluation"]
 ---
 
 # 📝 UTS-5: My Personal Review
 
-> **Rubrik Penilaian:** My Personal Review  
-> **Tujuan:** Melakukan telaah mendalam terhadap pesan personal UTS-1 s/d UTS-4 melalui Self Assessment dan Peer Assessment menggunakan rubrik yang telah ditentukan
-
----
+> Rubrik Penilaian: My Personal Review  
+> 
+> Tujuan: Melakukan telaah mendalam terhadap pesan personal UTS-1 s/d UTS-4 melalui Self Assessment dan Peer Assessment menggunakan rubrik yang telah ditentukan
 
 ## 📋 Review Framework
 
 ### Assessment Overview
 
-> [!uts5] **Review Scope**
-> **Materials yang direview:**
-> - ✅ **UTS-1:** All About Me (Rubrik: Daya Tarik/Attractiveness)
-> - ✅ **UTS-2:** Songs for You (Rubrik: Song For You)  
-> - ✅ **UTS-3:** My Stories for You (Rubrik: My Story for You)
-> - ✅ **UTS-4:** My Shape (Rubrik: My SHAPE)
+> [!uts5] Review Scope
 > 
-> **Assessment methods:**
+> Materials yang direview:
+> 
+> - ✅ **UTS-1:** All About Me (Rubrik: Daya Tarik/Attractiveness)
+>     
+> - ✅ **UTS-2:** Songs for You (Rubrik: Song For You)  
+>     
+> - ✅ **UTS-3:** My Stories for You (Rubrik: My Story for You)
+>     
+> - ✅ UTS-4: My Shape (Rubrik: My SHAPE)
+>     
+>     Assessment methods:
+>     
 > - 🔍 **Self Assessment** - Evaluasi diri berdasarkan rubrik
+>     
 > - 👥 **Peer Assessment** - Evaluasi dari rekan/teman
+>     
 > - 🎯 **Synthesis** - Integrasi hasil kedua assessment
+>     
 
-[Tulis pengantar tentang pentingnya proses review dan refleksi dalam pembelajaran komunikasi personal.]
-
----
+Proses review ini adalah langkah krusial untuk memahami efektivitas pesan yang telah saya sampaikan. Ini bukan hanya tentang menilai, tapi tentang menemukan benang merah yang menghubungkan semua karya dan mengidentifikasi bagaimana "Analis Puitis" yang teridentifikasi di UTS-4 telah bermanifestasi sejak UTS-1. Refleksi ini adalah cara untuk 'percaya' lebih dalam pada proses itu sendiri.
 
 ## 🪞 Self Assessment
+
+### Rangkuman Skor Self Assessment
+
+|Tugas|Skor Total|Persentase|
+|---|---|---|
+|**UTS-1:** All About Me|19/20|95%|
+|**UTS-2:** Songs for You|19/20|95%|
+|**UTS-3:** My Stories for You|19/20|95%|
+|**UTS-4:** My Shape|20/20|100%|
+|**Total Rata-rata**|**19.25/20**|**96.25%**|
 
 ### UTS-1: All About Me Review
 
@@ -40,483 +56,253 @@ tags: ["uts", "review", "self-assessment", "peer-assessment", "reflection", "eva
 
 **Kriteria penilaian dan self-evaluation:**
 
-> [!note] **Assessment Scale**
-> **1** = Needs Significant Improvement  
-> **2** = Below Expectations  
-> **3** = Meets Expectations  
-> **4** = Exceeds Expectations  
-> **5** = Outstanding
+> [!note] Assessment Scale
+> 
+> 1 = Needs Significant Improvement  
+> 
+> 2 = Below Expectations  
+> 
+> 3 = Meets Expectations  
+> 
+> 4 = Exceeds Expectations  
+> 
+> 5 = Outstanding
 
 **1. Authenticity & Genuineness**
-- **Self Score:** [1-5]
-- **Evidence:** [Contoh konkret dari konten yang menunjukkan keaslian]
-- **Reflection:** [Analisis mengapa memberi score ini]
-- **Improvement areas:** [Apa yang bisa ditingkatkan]
+
+- **Self Score:** 5
+    
+- **Evidence:** Pengakuan jujur akan "kontradiksi" diri—harmoni antara "pemikiran" (logika, "baris kode") dan "imajinasi" (perasaan, "wujud nan hidup"). Tema sentral "percaya" terasa tulus.
+    
+- **Reflection:** Saya tidak mencoba menampilkan persona yang sempurna, melainkan sosok yang utuh dengan dualitasnya. Kejujuran ini adalah inti dari daya tarik personal saya.
+    
+- **Improvement areas:** Tidak ada; keaslian adalah poin terkuat.
+    
 
 **2. Engaging Content**
-- **Self Score:** [1-5]
-- **Evidence:** [Bagian yang paling engaging dan alasannya]
-- **Reflection:** [Seberapa berhasil menarik attention pembaca]
-- **Improvement areas:** [Cara membuat lebih menarik]
+
+- **Self Score:** 5
+    
+- **Evidence:** Pembuka "Mula" yang puitis ("Hei, apapun yang terjadi...") langsung menetapkan nada dan menarik pembaca ke dalam filosofi personal saya.
+    
+- **Reflection:** Berhasil mengubah perkenalan diri standar menjadi sebuah cerita tentang sebuah keyakinan. Penggunaan metafora "bulan sabit" dan "keresahan" membuat kontennya "hidup".
+    
+- **Improvement areas:** Mungkin bisa menambahkan satu contoh cerita/konflik spesifik di mana dualitas ini berperan.
+    
 
 **3. Personal Insight Depth**
-- **Self Score:** [1-5]
-- **Evidence:** [Contoh insight yang mendalam]
-- **Reflection:** [Level of self-awareness yang ditunjukkan]
-- **Improvement areas:** [Area untuk eksplorasi lebih dalam]
+
+- **Self Score:** 5
+    
+- **Evidence:** Wawasan inti bahwa "Pemikiran membantuku menganalisis masalah mereka, dan imajinasi membantuku merasakan apa yang tak terucap. Kedua hal ini membuka empatiku."
+    
+- **Reflection:** Ini adalah wawasan yang mendalam dan tidak dangkal. Ini bukan hanya _apa_ yang saya suka, tapi _mengapa_ saya menjadi seperti ini (seorang pengamat yang empatik).
+    
+- **Improvement areas:** Wawasan ini sudah sangat kuat dan menjadi fondasi untuk UTS-4.
+    
 
 **4. Communication Clarity**
-- **Self Score:** [1-5]
-- **Evidence:** [Bagian yang jelas dan mudah dipahami]
-- **Reflection:** [Efektivitas penyampaian pesan]
-- **Improvement areas:** [Aspek komunikasi yang perlu diperbaiki]
 
-**Overall UTS-1 Self Assessment:**
-- **Total Score:** [/20]
-- **Percentage:** [%]
-- **Grade:** [A/B/C/D]
+- **Self Score:** 4
+    
+- **Evidence:** Pesan utama tersampaikan dengan baik, namun penggunaan bahasa yang puitis dan abstrak (misal "melukis jalan", "bertransaksi antar hati") mungkin memerlukan perenungan lebih bagi sebagian pembaca.
+    
+- **Reflection:** Ada keseimbangan antara kejelasan dan keindahan bahasa. Pesan intinya jelas, namun kekayaan maknanya berlapis.
+    
+- **Improvement areas:** Bisa menyandingkan satu kalimat yang sangat puitis dengan satu kalimat yang sangat lugas untuk menjangkar maknanya.
+    
 
----
+>**Overall UTS-1 Self Assessment:**
+>
+>- **Total Score:** 19/20
+>    
+>- **Percentage:** 95%
+    
 
 ### UTS-2: Songs for You Review
 
 #### Rubrik: Song For You
 
 **1. Creativity & Originality**
-- **Self Score:** [1-5]
-- **Evidence:** [Elemen kreatif dan original dalam karya]
-- **Reflection:** [Seberapa unik dan personal karya ini]
-- **Improvement areas:** [Cara meningkatkan kreativitas]
+
+- **Self Score:** 5
+    
+- **Evidence:** Lirik "Air" menggunakan metafora hujan/air bukan hanya sebagai kesedihan, tapi sebagai agen pembersih dan penyelamat ("Biar sakit ini yang selamatkanku").
+    
+- **Reflection:** Ini adalah pendekatan orisinal yang menolak toksisitas positivisme ("Bahagia itu tujuan, yakinkah?"). Ini sangat personal dan unik.
+    
+- **Improvement areas:** -
+    
 
 **2. Emotional Connection**
-- **Self Score:** [1-5]
-- **Evidence:** [Bagian yang paling emotionally resonant]
-- **Reflection:** [Seberapa dalam koneksi emosional yang tercipta]
-- **Improvement areas:** [Cara memperkuat emotional impact]
+
+- **Self Score:** 5
+    
+- **Evidence:** Bagian _bridge_ ("Kepada hidup yang tak terpilih... Arti untuk terlahir juga tak kumengerti") dan pengakuan "pikiranku kadang terlalu dalam" menciptakan koneksi emosional yang rentan dan jujur.
+    
+- **Reflection:** Lirik ini berhasil menyentuh inti "keresahan" yang diperkenalkan di UTS-1, membuatnya sangat relevan dan mendalam secara emosional.
+    
+- **Improvement areas:** -
+    
 
 **3. Personal Signature/Authenticity**
-- **Self Score:** [1-5]
-- **Evidence:** [Signature elements yang unique untuk Anda]
-- **Reflection:** [Balance antara AI assistance dan personal touch]
-- **Improvement areas:** [Cara memperkuat personal signature]
+
+- **Self Score:** 5
+    
+- **Evidence:** Frasa "Menganalisis retak yang mungkin bahkan tiada" adalah "tanda tangan" yang jelas dari persona "Analis Puitis"—logika (menganalisis) yang bertemu dengan perasaan (keresahan).
+    
+- **Reflection:** Ini jelas suara saya, bukan lirik generik. Ini terhubung langsung dengan identitas saya sebagai mahasiswa Informatika (analitis) dan seorang perasa (puitis).
+    
+- **Improvement areas:** -
+    
 
 **4. Technical Quality**
-- **Self Score:** [1-5]
-- **Evidence:** [Aspek teknis yang baik - flow, rhythm, structure]
-- **Reflection:** [Kualitas eksekusi dari ide ke final product]
-- **Improvement areas:** [Skills teknis yang perlu dikembangkan]
 
-**Overall UTS-2 Self Assessment:**
-- **Total Score:** [/20]
-- **Percentage:** [%]
-- **Grade:** [A/B/C/D]
+- **Self Score:** 4
+    
+- **Evidence:** Struktur lagu (Verse, Chorus, Bridge, Outro) tertata dengan baik. Rima dan alurnya mengalir mulus sebagai sebuah teks puitis.
+    
+- **Reflection:** Kualitas penulisan liriknya kuat dan efektif dalam menyampaikan pesan.
+    
+- **Improvement areas:** Jika ini akan dijadikan lagu, beberapa suku kata mungkin perlu penyesuaian ritme, tapi sebagai karya tulis, ini sudah sangat baik.
+    
 
----
+>**Overall UTS-2 Self Assessment:**
+>
+>- **Total Score:** 19/20
+>   
+>- **Percentage:** 95%
+    
 
 ### UTS-3: My Stories for You Review
 
 #### Rubrik: My Story for You
 
 **1. Story Structure & Flow**
-- **Self Score:** [1-5]
-- **Evidence:** [Bagian yang well-structured]
-- **Reflection:** [Seberapa smooth flow cerita]
-- **Improvement areas:** [Aspek struktur yang bisa diperbaiki]
+
+- **Self Score:** 5
+    
+- **Evidence:** Alur cerita sangat jelas, bergerak secara kronologis dari "kala kecil" ("arena bermain") ke "sekarang" di Labtek V ("teman merenung").
+    
+- **Reflection:** Transisi antar paragraf mulus, dan evolusi makna "hujan" dibangun secara bertahap dan logis. Penggunaan kutipan _Kotonoha no Niwa_ membingkai cerita dengan indah.
+    
+- **Improvement areas:** -
+    
 
 **2. Inspirational Value**
-- **Self Score:** [1-5]
-- **Evidence:** [Elemen yang inspirational]
-- **Reflection:** [Potential impact pada pembaca]
-- **Improvement areas:** [Cara meningkatkan inspirational value]
+
+- **Self Score:** 4
+    
+- **Evidence:** Inspirasinya subtil, bukan tentang kesuksesan besar, tapi tentang "evolusi makna" dan pentingnya "menerima kesedihan" sebagai bagian dari pertumbuhan.
+    
+- **Reflection:** Ini lebih ke arah "kontemplatif" daripada "inspiratif" secara gegap gempita. Nilai inspirasinya terletak pada ajakan untuk merenung dan menerima.
+    
+- **Improvement areas:** Mungkin bisa lebih eksplisit sedikit tentang _bagaimana_ pembaca bisa menerapkan pelajaran ini.
+    
 
 **3. Relatability & Universal Appeal**
-- **Self Score:** [1-5]
-- **Evidence:** [Aspek yang relatable untuk audience]
-- **Reflection:** [Balance personal experience dan universal themes]
-- **Improvement areas:** [Cara membuat lebih relatable]
+
+- **Self Score:** 5
+    
+- **Evidence:** Komentar seperti "(Siapa yang tahu ternyata lebih lelah tumbuh besar, haha)" dan "Tiap hari kerjaannya ngerjain tugas besar" sangat relatable bagi audiens (mahasiswa).
+    
+- **Reflection:** Cerita ini berhasil menghubungkan pengalaman personal (bermain hujan) dengan tema universal (bertumbuh dewasa, kehilangan waktu, mencari makna baru).
+    
+- **Improvement areas:** -
+    
 
 **4. Lesson Integration**
-- **Self Score:** [1-5]
-- **Evidence:** [How lessons naturally integrated dalam cerita]
-- **Reflection:** [Effectiveness of message delivery]
-- **Improvement areas:** [Cara memperjelas lessons]
 
-**Overall UTS-3 Self Assessment:**
-- **Total Score:** [/20]
-- **Percentage:** [%]
-- **Grade:** [A/B/C/D]
+- **Self Score:** 5
+    
+- **Evidence:** Pesan utamanya (evolusi makna) tidak disampaikan secara paksa di akhir, melainkan _menjadi_ inti dari cerita itu sendiri. Penemuan "asosiasiku pada hujan telah berevolusi" adalah klimaks alami.
+    
+- **Reflection:** Ini adalah contoh "show, don't tell" yang berhasil. Pelajaran terintegrasi mulus ke dalam narasi.
+    
+- **Improvement areas:** -
+    
 
----
+> **Overall UTS-3 Self Assessment:**
+>
+> - **Total Score:** 19/20
+>    
+> - **Percentage:** 95%
+    
 
 ### UTS-4: My Shape Review
 
 #### Rubrik: My SHAPE
 
 **1. Assessment Completeness**
-- **Self Score:** [1-5]
-- **Evidence:** [Thoroughness dalam menggunakan assessment tools]
-- **Reflection:** [Comprehensive coverage of different aspects]
-- **Improvement areas:** [Areas yang perlu lebih thorough]
+
+- **Self Score:** 5
+    
+- **Evidence:** Semua kerangka kerja yang diminta (VIA, Piagam Diri, Identitas Naratif, SHAPE) telah diisi dengan lengkap dan detail.
+    
+- **Reflection:** Saya telah menggunakan semua tools yang disediakan untuk membedah diri, tidak ada bagian yang terlewat.
+    
+- **Improvement areas:** -
+    
 
 **2. Analysis Depth**
-- **Self Score:** [1-5]
-- **Evidence:** [Quality of analysis dan interpretation]
-- **Reflection:** [Level of insight dari assessment results]
-- **Improvement areas:** [Aspek analysis yang bisa lebih dalam]
+
+- **Self Score:** 5
+    
+- **Evidence:** Analisis tidak berhenti di permukaan (misal hanya mendaftar _strengths_). Saya menggali lebih dalam untuk menemukan pola, seperti "Pola utamanya adalah 'Pemikiran + Imajinasi = Empati'".
+    
+- **Reflection:** Kedalaman analisis ini terbukti dari kemampuan saya untuk mengidentifikasi "Dualitas yang Harmonis" sebagai tema sentral.
+    
+- **Improvement areas:** -
+    
 
 **3. Integration & Synthesis**
-- **Self Score:** [1-5]
-- **Evidence:** [How well different assessments terintegrasi]
-- **Reflection:** [Coherent self-portrait yang emerged]
-- **Improvement areas:** [Better integration opportunities]
+
+- **Self Score:** 5
+    
+- **Evidence:** Seluruh analisis UTS-4 secara konsisten merujuk kembali ke UTS-1, 2, dan 3 sebagai bukti.
+    
+- **Reflection:** Ini adalah poin terkuat. UTS-4 berhasil menjadi "baris kode" yang menyatukan "cerita" dan "puisi" dari UTS-1, 2, dan 3. Sintesis "Analis Puitis" adalah puncak dari integrasi ini.
+    
+- **Improvement areas:** -
+    
 
 **4. Actionable Insights**
-- **Self Score:** [1-5]
-- **Evidence:** [Practical applications dari insights]
-- **Reflection:** [Usefulness untuk personal development]
-- **Improvement areas:** [More actionable outcomes]
 
-**Overall UTS-4 Self Assessment:**
-- **Total Score:** [/20]
-- **Percentage:** [%]
-- **Grade:** [A/B/C/D]
+- **Self Score:** 5
+    
+- **Evidence:** Mengidentifikasi "Gaps & Contradictions" secara jujur, seperti "kekuatan sekaligus kelemahan" (pemikiran yang dalam bisa berujung _overthinking_) dan "Mungkin" dari UTS-3 (keinginan vs. kemampuan membuka diri).
+    
+- **Reflection:** Wawasan ini sangat dapat ditindaklanjuti. Ini memberi saya area yang jelas untuk pengembangan diri ke depan: belajar mengelola _overthinking_ dan mempraktikkan kerentanan.
+    
+- **Improvement areas:** -
+    
 
----
+> **Overall UTS-4 Self Assessment:**
+>
+> - **Total Score:** 20/20
+>     
+> - **Percentage:** 100%
+    
 
 ## 👥 Peer Assessment
 
-### Peer Reviewer Information
+Bagian ini dapat dilihat pada laman berikut.
 
-> [!tip] **Peer Reviewer Profile**
-> **Name:** [Nama reviewer atau inisial]  
-> **Relationship:** [Teman/Classmate/Colleague/dll]  
-> **Review date:** [Tanggal review]  
-> **Context:** [Bagaimana mereka mengenal karya Anda]
+[Peer Assessment](https://docs.google.com/spreadsheets/d/1-x8cjTN8RhCHGleSn8OfeznwKUFw8-aF/edit?usp=sharing&ouid=102914054605007088703&rtpof=true&sd=true)
 
-### Peer Feedback Collection
+## 🎯 Synthesis & Final Reflection
 
-#### Instructions for Peer Reviewer
+### Overall Key Findings
 
-"Silakan review keempat karya UTS saya dan berikan feedback berdasarkan kriteria berikut. Berikan score 1-5 untuk setiap aspek dan sertakan komentar konstruktif."
+Dari proses _self-assessment_ ini, temuan kuncinya adalah **konsistensi tematik**. Keempat karya ini bukanlah tugas-tugas yang terpisah, melainkan sebuah narasi tunggal yang koheren.
 
----
+1. **Identitas Inti:** Identitas saya sebagai "Analis Puitis" (logika + rasa) terkonfirmasi. Ini adalah "daya tarik" (UTS-1), sumber "kreativitas" (UTS-2), lensa "cerita" (UTS-3), dan "struktur" (UTS-4).
+    
+2. **Kekuatan Terbesar:** Kekuatan terbesar saya adalah **integrasi** dan **sintesis**—kemampuan untuk menghubungkan titik-titik (cerita, lirik, data asesmen) menjadi sebuah "wujud nan hidup" yang bermakna.
+    
+3. **Area Pertumbuhan:** Area pengembangan yang paling jelas adalah mempraktikkan kerentanan ("membuka diri di bawah hujan" yang masih "Mungkin" di UTS-3) dan mengelola sisi negatif dari kekuatan analitis saya (kecenderungan "menganalisis retak yang mungkin bahkan tiada" dari UTS-2).
+    
 
-#### Peer Assessment: UTS-1 (All About Me)
-
-**Reviewer feedback:**
-
-**1. Authenticity & Genuineness**
-- **Peer Score:** [1-5]
-- **Comments:** [Feedback dari reviewer]
-
-**2. Engaging Content**
-- **Peer Score:** [1-5]
-- **Comments:** [Feedback dari reviewer]
-
-**3. Personal Insight Depth**
-- **Peer Score:** [1-5]
-- **Comments:** [Feedback dari reviewer]
-
-**4. Communication Clarity**
-- **Peer Score:** [1-5]
-- **Comments:** [Feedback dari reviewer]
-
-**Peer Overall UTS-1:**
-- **Total Score:** [/20]
-- **Additional comments:** [General feedback]
-
----
-
-#### Peer Assessment: UTS-2 (Songs for You)
-
-**1. Creativity & Originality**
-- **Peer Score:** [1-5]
-- **Comments:** [Feedback dari reviewer]
-
-**2. Emotional Connection**
-- **Peer Score:** [1-5]
-- **Comments:** [Feedback dari reviewer]
-
-**3. Personal Signature/Authenticity**
-- **Peer Score:** [1-5]
-- **Comments:** [Feedback dari reviewer]
-
-**4. Technical Quality**
-- **Peer Score:** [1-5]
-- **Comments:** [Feedback dari reviewer]
-
-**Peer Overall UTS-2:**
-- **Total Score:** [/20]
-- **Additional comments:** [General feedback]
-
----
-
-#### Peer Assessment: UTS-3 (My Stories for You)
-
-**1. Story Structure & Flow**
-- **Peer Score:** [1-5]
-- **Comments:** [Feedback dari reviewer]
-
-**2. Inspirational Value**
-- **Peer Score:** [1-5]
-- **Comments:** [Feedback dari reviewer]
-
-**3. Relatability & Universal Appeal**
-- **Peer Score:** [1-5]
-- **Comments:** [Feedback dari reviewer]
-
-**4. Lesson Integration**
-- **Peer Score:** [1-5]
-- **Comments:** [Feedback dari reviewer]
-
-**Peer Overall UTS-3:**
-- **Total Score:** [/20]
-- **Additional comments:** [General feedback]
-
----
-
-#### Peer Assessment: UTS-4 (My Shape)
-
-**1. Assessment Completeness**
-- **Peer Score:** [1-5]
-- **Comments:** [Feedback dari reviewer]
-
-**2. Analysis Depth**
-- **Peer Score:** [1-5]
-- **Comments:** [Feedback dari reviewer]
-
-**3. Integration & Synthesis**
-- **Peer Score:** [1-5]
-- **Comments:** [Feedback dari reviewer]
-
-**4. Actionable Insights**
-- **Peer Score:** [1-5]
-- **Comments:** [Feedback dari reviewer]
-
-**Peer Overall UTS-4:**
-- **Total Score:** [/20]
-- **Additional comments:** [General feedback]
-
----
-
-## 📊 Comparative Analysis
-
-### Self vs Peer Assessment
-
-#### Score Comparison Table
-
-| UTS | Aspect | Self Score | Peer Score | Difference | Analysis |
-|-----|--------|------------|------------|------------|-----------|
-| UTS-1 | Authenticity | [Score] | [Score] | [+/-] | [Why difference?] |
-| UTS-1 | Engagement | [Score] | [Score] | [+/-] | [Analysis] |
-| UTS-1 | Insight Depth | [Score] | [Score] | [+/-] | [Analysis] |
-| UTS-1 | Communication | [Score] | [Score] | [+/-] | [Analysis] |
-| UTS-2 | Creativity | [Score] | [Score] | [+/-] | [Analysis] |
-| UTS-2 | Emotional Connection | [Score] | [Score] | [+/-] | [Analysis] |
-| UTS-2 | Personal Signature | [Score] | [Score] | [+/-] | [Analysis] |
-| UTS-2 | Technical Quality | [Score] | [Score] | [+/-] | [Analysis] |
-| UTS-3 | Story Structure | [Score] | [Score] | [+/-] | [Analysis] |
-| UTS-3 | Inspirational Value | [Score] | [Score] | [+/-] | [Analysis] |
-| UTS-3 | Relatability | [Score] | [Score] | [+/-] | [Analysis] |
-| UTS-3 | Lesson Integration | [Score] | [Score] | [+/-] | [Analysis] |
-| UTS-4 | Completeness | [Score] | [Score] | [+/-] | [Analysis] |
-| UTS-4 | Analysis Depth | [Score] | [Score] | [+/-] | [Analysis] |
-| UTS-4 | Integration | [Score] | [Score] | [+/-] | [Analysis] |
-| UTS-4 | Actionable Insights | [Score] | [Score] | [+/-] | [Analysis] |
-
-### Overall Performance Summary
-
-> [!important] **Performance Overview**
-> **Self Assessment Average:** [Score/20]  
-> **Peer Assessment Average:** [Score/20]  
-> **Overall Difference:** [+/- Score]  
-> **Strongest UTS:** [Which performed best]  
-> **Growth Area UTS:** [Which needs most improvement]
-
----
-
-## 🔍 Deep Dive Analysis
-
-### Patterns in Assessment
-
-#### Areas of Agreement
-**Where self and peer scores aligned:**
-- [Aspects dengan similar scoring]
-- [Strengths yang recognized by both perspectives]
-- [Consistent quality indicators across UTSs]
-
-#### Areas of Divergence
-**Significant score differences:**
-- **Self scored higher:** [Areas dimana Anda rate diri lebih tinggi]
-  - *Possible reasons:* [Why this might happen]
-- **Peer scored higher:** [Areas dimana peer rate lebih tinggi]
-  - *Possible reasons:* [Blind spots atau underestimation]
-
-### Blind Spots Discovery
-
-**Things I didn't notice about my work:**
-- [Insights dari peer feedback yang surprising]
-- [Strengths yang underestimated]
-- [Weaknesses yang overlooked]
-
-**Things peer might have missed:**
-- [Context atau effort yang peer tidak tahu]
-- [Intentional choices yang mungkin tidak clear]
-- [Personal significance yang tidak apparent]
-
----
-
-## 🎯 Synthesis & Integration
-
-### Key Learnings
-
-#### About My Communication Style
-**Discovery dari review process:**
-- **Strengths consistently demonstrated:** [Across multiple UTSs]
-- **Communication patterns:** [How I naturally express]
-- **Audience impact:** [How others receive my messages]
-
-#### About Self-Awareness
-**Meta-learning dari self-assessment:**
-- **Accuracy of self-perception:** [How well I know myself]
-- **Areas of overconfidence:** [Where I might overestimate]
-- **Areas of underconfidence:** [Where I underestimate abilities]
-
-#### About Feedback Reception
-**Learning dari peer assessment:**
-- **How I respond to criticism:** [Emotional dan intellectual response]
-- **Value of external perspective:** [What peer view added]
-- **Feedback integration challenges:** [Difficulty areas]
-
----
-
-## 📈 Development Action Plan
-
-### Priority Improvement Areas
-
-#### Top 3 Development Priorities
-1. **[Priority 1]**
-   - **Based on:** [Self assessment/Peer feedback/Both]
-   - **Specific actions:** [Concrete steps untuk improvement]
-   - **Timeline:** [Realistic timeframe]
-   - **Success metrics:** [How to measure progress]
-
-2. **[Priority 2]**
-   - **Based on:** [Evidence dari assessments]
-   - **Specific actions:** [Development plan]
-   - **Timeline:** [Target dates]
-   - **Success metrics:** [Measurement criteria]
-
-3. **[Priority 3]**
-   - **Based on:** [Assessment insights]
-   - **Specific actions:** [Improvement strategy]
-   - **Timeline:** [Implementation schedule]
-   - **Success metrics:** [Progress indicators]
-
-### Strengths Leverage Plan
-
-#### How to maximize strengths:
-**Strength 1:** [From consistent high scores]
-- **Leverage strategy:** [How to use this more effectively]
-- **Application opportunities:** [Where to apply this strength]
-
-**Strength 2:** [Recognized strength]
-- **Development plan:** [How to further develop]
-- **Sharing strategy:** [How to help others with this strength]
-
----
-
-## 🔄 Ongoing Assessment Strategy
-
-### Regular Review Schedule
-
-**Monthly mini-reviews:**
-- [Quick check pada development priorities]
-- [Progress tracking on action items]
-
-**Quarterly comprehensive review:**
-- [Deeper analysis of growth]
-- [Reassessment of priorities]
-
-**Annual peer feedback cycle:**
-- [Regular peer assessment schedule]
-- [Expanding reviewer pool]
-
-### Feedback Culture Development
-
-**Creating feedback-rich environment:**
-- [How to encourage regular feedback]
-- [Making feedback safe dan constructive]
-- [Building reciprocal feedback relationships]
-
----
-
-## 💡 Meta-Reflections
-
-### On the Review Process Itself
-
-#### What worked well:
-- [Aspects of review process yang effective]
-- [Tools atau methods yang helpful]
-- [Insights yang unexpected]
-
-#### What was challenging:
-- [Difficult parts of self-assessment]
-- [Challenges dalam peer feedback]
-- [Areas yang hard to evaluate objectively]
-
-#### Process improvements:
-- [How to make future reviews better]
-- [Additional perspectives needed]
-- [Tools atau frameworks untuk explore]
-
----
-
-## 🎉 Celebration & Gratitude
-
-### Acknowledging Growth
-
-**Progress to celebrate:**
-- [Improvements dari awal hingga akhir UTS series]
-- [Skills yang developed through process]
-- [Self-awareness yang gained]
-
-### Gratitude
-
-**Appreciation for:**
-- [Peer reviewers yang provided feedback]
-- [Learning process yang challenging but rewarding]
-- [Opportunities untuk self-discovery]
-
----
-
-## 📋 Executive Summary
-
-### Final Assessment Overview
-
-> [!note] **Executive Summary**
-> **Overall Performance Level:** [Based on combined assessments]  
-> **Key Strengths:** [Top 3 strengths across all UTSs]  
-> **Priority Development Areas:** [Top 3 areas for improvement]  
-> **Most Surprising Discovery:** [Biggest insight dari review]  
-> **Next Steps:** [Immediate actions post-review]
-
-### Personal Growth Trajectory
-
-**Before this UTS series:** [Where you started]  
-**After completion dan review:** [Where you are now]  
-**Future direction:** [Where you're headed based on learnings]
-
----
-
-> **📝 Tips untuk Effective Review:**
-> - Be honest dan objective dalam self-assessment
-> - Choose peer reviewers yang akan give constructive feedback
-> - Look for patterns across different UTSs
-> - Focus on actionable insights untuk development
-> - Use assessment sebagai learning tool, not just evaluation
-> - Celebrate growth dan progress made throughout process
-
----
+Proses UTS ini telah menjadi perjalanan untuk "percaya" pada diri sendiri, dengan cara memetakannya secara jujur dan mendalam.
 
 *Dibuat dengan 💚 sebagai bagian dari UTS Komunikasi Interpersonal*

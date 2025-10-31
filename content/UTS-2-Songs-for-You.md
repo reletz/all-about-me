@@ -58,7 +58,7 @@ Kumohon, dengarkan lagu ini.
 > 
 > Atau 'kah ku terlalu jauh terdiam?
 
-### Chorus
+## Chorus
 
 > Jadi kumohon, jangan khawatirkan aku
 > 
