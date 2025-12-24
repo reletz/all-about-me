@@ -83,17 +83,15 @@ Setelah merancang konsep, opini, inovasi, dan pengetahuan di UAS 1-4, kini saatn
 
 ## 👥 Peer Assessment
 
-_(Bagian ini dilakukan secara manual dengan rekan sejawat menggunakan rubrik yang sama. Silakan isi tautan atau form penilaian teman di sini)._
-
-> **Catatan untuk Diri Sendiri:** Saat menilai teman, gunakan prinsip `UAS-4`: "Validasi Data". Jangan hanya menilai teknis penulisannya, tapi dengarkan _niat_ dan _pesan_ di balik tulisan mereka.
+Lampiran Link Peer to Peer: [Link Peer to Peer](https://docs.google.com/spreadsheets/d/1SPfgbaaeji5egZT2tnh96r775Vm5A-Vr/edit?gid=1782205901#gid=1782205901)
 
 ## 🎯 Dari "Hello World" ke "Hello Society"
 
 Rangkaian UAS ini adalah perjalanan transformasi.
 
-Jika di UTS saya sibuk mendefinisikan "Siapa Aku" (_Hello World_), di UAS saya belajar mendefinisikan "Apa Gunaku Bagi Mereka" (_Hello Society_).
+Jika di UTS aku sibuk mendefinisikan "Siapa Aku" (_Hello World_), di UAS aku belajar mendefinisikan "Apa Gunaku Bagi Mereka" (_Hello Society_).
 
-Saya menyadari bahwa identitas "Analis Puitis" bukan sekadar gaya-gayaan. Itu adalah sebuah tanggung jawab profesional:
+aku menyadari bahwa identitas "Analis Puitis" bukan sekadar gaya-gayaan. Itu adalah sebuah tanggung jawab profesional:
 
 1. Menggunakan **Logika** untuk membedah ketidakadilan sistemik.
     
