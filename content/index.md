@@ -36,7 +36,6 @@ Mari kita mulai perjalanan ini bersama, dari kata yang sebatang kara menuju makn
 Atau bahkan memakannya?
 
 ---
-
 # Proyek UTS Komunikasi Interpersonal
 
 ##  Daftar Tugas UTS
@@ -70,3 +69,39 @@ Atau bahkan memakannya?
 > Evaluasi diri dan penilaian dari rekan sejawat terhadap perkembangan kemampuan komunikasi interpersonal selama perkuliahan.
 > 
 > **[Buka UTS-5 My Personal Review →](UTS-5-My-Personal-Review.md)**
+
+---
+
+# Proyek UAS Komunikasi Interpersonal
+
+##  Daftar Tugas UAS
+
+> [!success] **UAS-1: My Concepts**
+> 
+> Eksplorasi mendalam tentang karakteristik personal, kekuatan, dan keunikan diri yang menjadi daya tarik dalam komunikasi interpersonal.
+> 
+> **[Buka UAS-1: My Concepts →](UAS-1-My-Concepts.md)**
+
+> [!note] **UAS-2 My Opinions**
+> 
+> Koleksi karya kreatif berupa puisi, lagu, dan video clip yang mencerminkan perasaan dan pesan personal untuk orang-orang terkasih.
+> 
+> **[Buka UAS-2 My Opinions →](UAS-2-My-Opinions.md)**
+
+> [!info] **UAS-3: My Innovations**
+> 
+> Kumpulan cerita inspiratif dari pengalaman hidup yang dapat memberikan motivasi dan pembelajaran bagi orang lain.
+> 
+> **[Buka UAS-3 My Innovations →](UAS-3-My-Innovations.md)**
+
+> [!tip] **UAS-4: My Knowledge**
+> 
+>  Analisis komprehensif hasil asesmen VIA (Values in Action), pembentukan piagam diri, dan konstruksi identitas naratif personal.
+> 
+> **[Buka UAS-4 My Knowledge →](UAS-4-My-Knowledge.md)**
+
+> [!warning] **UAS-5: My Professional Review**
+> 
+> Evaluasi diri dan penilaian dari rekan sejawat terhadap perkembangan kemampuan komunikasi interpersonal selama perkuliahan.
+> 
+> **[Buka UAS-5 My Professional Review →](UAS-5-My-Professional-Review.md)**
